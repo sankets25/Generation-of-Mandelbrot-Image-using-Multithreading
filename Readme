@@ -1,0 +1,2 @@
+• Implemented multi-threading approach to generate Mandelbrot image by dividing image pixels between multiple
+threads equally which makes process faster.
